@@ -7,7 +7,7 @@
     Hello and welcome to my GitHub profile !
     <br>
     <br>
-    🥷 Let me introduce myself first. I'm Arès and I'm a 16 years.<br>
+    🥷 Let me introduce myself first. I'm Arès and I'm a 16 years old.<br>
     📖 I'm currently a first year apprentice at <a href="https://www.jaeger-lecoultre.com/ch/fr/" target="_blank">Jaeger-LeCoultre.</a><br>  
     💻 I love coding and playing video games.<br>
     📫 You can contact me on Twitter <a href="https://twitter.com/Ares240hz" target="_blank">@Arès</a>
