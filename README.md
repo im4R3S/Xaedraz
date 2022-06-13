@@ -3,7 +3,7 @@
   </h1>
 
   <p align="center">
-    <img src="https://besthqwallpapers.com/Uploads/26-9-2020/142025/thumb2-focus-4k-blue-neon-lights-2020-games-fortnite-battle-royale.jpg" alt="Arès profile pic" style="width:350px;"/>       <br><br>
+    <img src="https://besthqwallpapers.com/Uploads/26-9-2020/142025/thumb2-focus-4k-blue-neon-lights-2020-games-fortnite-battle-royale.jpg" alt="Arès profile pic" style="width:350px; border-radius: 50%;"/>       <br><br>
     Hello and welcome to my GitHub profile !
     <br>
     <br>
